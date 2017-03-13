@@ -4,11 +4,6 @@
   "keywords": ["font", "symbolizr", "icon", "iconfont", "bootstrap"],
   "homepage": "http://symbolizr.com/",
   "authors": [],
-  "extra": {
-    "branch-alias": {
-      "master": "1.0.0"
-    }
-  },
   "license": [
       "OFL-1.1",
       "MIT"
