@@ -16,7 +16,7 @@ Get started at (http://symbolizr.com)!
 
 ## Versioning
 
-Font Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
+Symbolizr Bold will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
 with the following format:
 
 `<major>.<minor>.<patch>`
