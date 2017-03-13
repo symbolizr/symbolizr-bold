@@ -34,10 +34,3 @@ For more information on SemVer, please visit http://semver.org.
 **Bower:**       `bower install symbolizr-bold --save`   
 **NPM:**         `npm install symbolizr-bold --save`   
 **Composer:**    `composer require symbolizr/symbolizr-bold`   
-
-## Getting started without install
-[CDNjs](https://cdnjs.com/libraries/symbolizr-bold)
-Thanks to the cdnjs.cloudflare.com, you can use CDNjs to add Symbolizr Bold to your website without downloading or installing anything!   
-
-Paste the following code into the <head> section of your site's HTML.  
-`<link rel="stylesheet" href="https://cdnjs.com/libraries/symbolizr-bold/1.0.0/src/Symbolizr-Icon-Bold.css">`   
