@@ -32,8 +32,8 @@ For more information on SemVer, please visit http://semver.org.
 ## Install
 **Download:**    [1.0.0 (ZIP)](https://github.com/symbolizr/symbolizr-bold/releases/download/1.0.0/symbolizr-bold.zip)   
 **Bower:**       `bower install symbolizr-bold --save`   
-**NPM:**         `npm install symbolizr-bold --save`
-**Composer:**    `composer require symbolizr/symbolizr-bold`
+**NPM:**         `npm install symbolizr-bold --save`   
+**Composer:**    `composer require symbolizr/symbolizr-bold`   
 
 ## Getting started without install
 [CDNjs](https://cdnjs.com/libraries/symbolizr-bold)
