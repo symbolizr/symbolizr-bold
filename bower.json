@@ -12,7 +12,6 @@
   "ignore": [
     "*/.*",
     "*.json",
-    "src",
     "*.yml",
     "Gemfile",
     "Gemfile.lock",
