@@ -1,0 +1,16 @@
+{
+  "name": "symbolizr/symbolizr-bold",
+  "description": "Symbolizr Bold icon font",
+  "keywords": ["font", "symbolizr", "icon", "iconfont", "bootstrap"],
+  "homepage": "http://symbolizr.com/",
+  "authors": [],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.0"
+    }
+  },
+  "license": [
+      "OFL-1.1",
+      "MIT"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "symbolizr-bold",
+  "description": "Symbolizr Bold icon font",
+  "version": "1.0.0",
+  "style": "src/Symbolizr-Icon-Bold.css",
+  "keywords": ["font", "symbolizr", "iconfont", "icon", "bootstrap"],
+  "homepage": "http://symbolizr.com/",
+  "bugs": {
+    "url" : "http://github.com/symbolizr/symbolizr-bold/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/symbolizr/symbolizr-bold.git"
+  },
+  "license": "(OFL-1.1 AND MIT)",
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  }
+}
