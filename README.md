@@ -30,7 +30,7 @@ And constructed with the following guidelines:
 For more information on SemVer, please visit http://semver.org.
 
 ## Install
-**Download:**    [1.0.0 (ZIP)](https://github.com/symbolizr/symbolizr-bold/releases/download/1.0.0/symbolizr-bold.zip)   
+**Download:**    [1.0.0 (ZIP)](https://github.com/symbolizr/symbolizr-bold/archive/1.0.0.zip)   
 **Bower:**       `bower install symbolizr-bold --save`   
 **NPM:**         `npm install symbolizr-bold --save`   
 **Composer:**    `composer require symbolizr/symbolizr-bold`   
